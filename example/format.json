@@ -1,0 +1,37 @@
+{
+  "width": 40,
+  "height": 30,
+  "density": 2,
+  "quality": 4,
+  "draw": [
+    {
+      "type": "text",
+      "content": "this_is_a_demo",
+      "x": 0,
+      "y": 0,
+      "width": 30,
+      "height": 5,
+      "fontSize": 3,
+      "letterSpace": 0,
+      "lineSpace": 0,
+      "rotate": 0
+    },
+    {
+      "type": "qrcode",
+      "content": "demo qrcode",
+      "x": 0,
+      "y": 9,
+      "width": 15,
+      "rotate": 0
+    },
+    {
+      "type": "line",
+      "x": 0,
+      "y": 7,
+      "x1": 25,
+      "y1": 6,
+      "width": 1,
+      "rotate": 0
+    }
+  ]
+}
